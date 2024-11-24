@@ -1,0 +1,31 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: "Contact"
+  description:
+  icon:
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+props:
+  action_url: "/index.html"
+  form_title: "Contact Form"
+  button_text: "Send Message"
+  preheading: "We are Professionals"
+  heading: "Don’t Hesitate to contact with us for any kind of information"
+  address: "North Main Street,Brooklyn Australia"
+  email: "contact@mail.com"
+  phone: "+88 01672 506 744"
+  facebook: "http://www.themefisher.com"
+  twitter: "http://www.themefisher.com"
+  linkedin: "http://www.themefisher.com"

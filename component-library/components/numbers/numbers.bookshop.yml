@@ -1,0 +1,31 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: "Numbers"
+  description:
+  icon:
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+props: 
+  bullets:
+    - item: "01."
+      heading: "Our Mission"
+      text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio ."
+    - item: "02."
+      heading: "Our Vision"
+      text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio ."
+    - item: "03."
+      heading: "Our Approach"
+      text: "llum similique ducimus accusamus laudantium praesentium, impedit quaerat, itaque maxime sunt deleniti voluptas distinctio ."
+      

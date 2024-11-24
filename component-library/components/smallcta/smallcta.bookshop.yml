@@ -1,0 +1,25 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: "Smallcta"
+  description:
+  icon:
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+props:
+  cta_preheading: "For Every type business"
+  cta_text: "Entrust Your Project to Our Best Team of blah blah blah"
+  link:
+    url: "/contact.html"
+    text: "Contact Us"

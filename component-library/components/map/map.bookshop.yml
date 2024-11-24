@@ -1,0 +1,24 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: "Map"
+  description:
+  icon:
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+props: 
+  latitude: "51.888692"
+  longitude: "-8.408368"
+  marker: "/images/marker.png"
+  marker_name: "TablePath"

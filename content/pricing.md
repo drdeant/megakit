@@ -1,0 +1,52 @@
+---
+title: "Pricing"
+hero:
+  title: "Our Pricing"
+  background_image: "/images/bg/home-2.jpg"
+
+content_blocks:
+  - _bookshop_name: "overview"
+    preheading: "We are creative"
+    heading: "We provide best solution to client with their business problem"
+    attributes:
+      - icon: "ti-wand"
+        heading: "Modern & Responsive design"
+        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+      - icon: "ti-medall"
+        heading: "Awarded licensed company"
+        text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum, aspernatur."
+  
+  - _bookshop_name: "pricing"
+    preheading: "Our Pricing"
+    heading: "No hidden Charges.Choose Your Perfect Plan"
+    offers: 
+      - name: "Free"
+        price: "€0"
+        metric: "Per User / Month"
+        include1: "- Up to 1 User"
+        include2: "- Max 100 Items"
+        include3: "- 500 Queries"
+        include4: "- Basic Statistics"
+        button_text: "Download Now"
+      - name: "Basic"
+        price: "€12"
+        metric: "Per User / Month"
+        include1: "- Up to 5 Users"
+        include2: "- Max 1000 Items"
+        include3: "- 5000 Queries"
+        include4: "- Standard Statistics"
+        button_text: "Signup Now"
+      - name: "Premium"
+        price: "€39"
+        metric: "Per User / Month"
+        include1: "- Unlimited User"
+        include2: "- Unlimited Items"
+        include3: "- Unlimited Queries"
+        include4: "- Full Statistics"
+        button_text: "Download Now"
+    cta_preheading: "For Every type business"
+    cta_text: "Entrust Your Project to Our Best Team of blah blah blah"
+    link:
+      url: "/contact.html"
+      text: "Contact Us"
+---

@@ -1,0 +1,37 @@
+# Metadata about this component, to be used in the CMS
+spec:
+  structures:
+    - content_blocks
+  label: "Counter-dark"
+  description:
+  icon:
+  tags: []
+
+# Defines the structure of this component, as well as the default values
+blueprint:
+  text: "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+preview:
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+_inputs:
+
+props: 
+  feats:
+    - icon: "ti-check"
+      value: "1730"
+      suffix: " +"
+      feat: "Project Done"
+    - icon: "ti-flag"
+      value: "125 "
+      suffix: "M"
+      feat: "Users Worldwide"
+    - icon: "ti-layers"
+      value: "39"
+      suffix: ""
+      feat: "Available Countries"
+    - icon: "ti-medall"
+      value: "14"
+      suffix: ""
+      feat: "Award Winner"

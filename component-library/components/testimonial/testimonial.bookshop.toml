@@ -1,0 +1,41 @@
+# Metadata about this component, to be used in the CMS
+[spec]
+structures = [ "content_blocks" ]
+label = "Testimonial"
+description = ""
+icon = ""
+tags = []
+
+# Defines the structure of this component, as well as the default values
+[blueprint]
+text = "Hello World!"
+
+# Overrides any fields in the blueprint when viewing this component in the component browser
+[preview]
+
+# Any extra CloudCannon inputs configuration to apply to the blueprint
+[_inputs]
+
+[props]
+preheading = "Clients testimonial"
+heading = "Check what's our clients say about us"
+
+[[props.quotes]]
+text = "Consectetur adipisicing elit. mporibus odio reiciendis error alias debitis atque consequuntur natus iusto recusandae"
+author = "Mickel hussy"
+role = "Excutive Director,themefisher"
+
+[[props.quotes]]
+text = "Consectetur adipisicing elit. mporibus odio reiciendis error alias debitis atque consequuntur natus iusto recusandae"
+author = "Bronwyn Clarke"
+role = "Excutive Director,Exxon"
+
+[[props.quotes]]
+text = "Consectetur adipisicing elit. mporibus odio reiciendis error alias debitis atque consequuntur natus iusto recusandae"
+author = "Brian hussy"
+role = "Excutive Director,BP"
+
+[[props.quotes]]
+text = "Consectetur adipisicing elit. mporibus odio reiciendis error alias debitis atque consequuntur natus iusto recusandae"
+author = "Bronwyn Smith"
+role = "Excutive Director,Shell"
