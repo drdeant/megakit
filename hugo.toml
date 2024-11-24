@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://drdeant.github.io/megakit/'
 languageCode = 'en-us'
 title = 'TablePath'
 Paginate = 10
