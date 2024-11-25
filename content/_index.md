@@ -5,7 +5,7 @@ content_blocks:
   - _bookshop_name: "slider"
     preheading: "Fill your hotel, every day of the week."
     heading: "A reservation system designed for Restaurants & Hotels"
-    background_image: "/images/bg/homepage_hero_image.jpg"
+    background_image: "images/bg/homepage_hero_image.jpg"
     link:
       text: "Start your free trial!"
       url: "#"
