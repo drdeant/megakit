@@ -2,7 +2,7 @@
 title: "About"
 hero:
   title: "Our Company"
-  background_image: "/images/bg/home-2.jpg"
+  background_image: "images/bg/home-2.jpg"
 
 content_blocks:
   
@@ -13,7 +13,7 @@ content_blocks:
     link:
       url: "/contact.html"
       button_text: "Get Started"
-    component_image: "/images/about/home-7.jpg"
+    component_image: "images/about/home-7.jpg"
 
   - _bookshop_name: "numbers"
     bullets:
