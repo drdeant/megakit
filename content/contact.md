@@ -2,7 +2,7 @@
 title: "Contact Us"
 hero:
   title: "Get in touch"
-  background_image: "/images/bg/home-2.jpg"
+  background_image: "images/bg/home-2.jpg"
 
 content_blocks:
   - _bookshop_name: "contact"
@@ -20,6 +20,6 @@ content_blocks:
   - _bookshop_name: "map"
     latitude: "51.888692"
     longitude: "-8.408368"
-    marker: "/images/marker.png"
+    marker: "images/marker.png"
     marker_name: "TablePath"
 ---

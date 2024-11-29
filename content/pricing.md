@@ -2,7 +2,7 @@
 title: "Pricing"
 hero:
   title: "Our Pricing"
-  background_image: "/images/bg/home-2.jpg"
+  background_image: "images/bg/home-2.jpg"
 
 content_blocks:
   - _bookshop_name: "overview"

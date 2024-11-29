@@ -3,7 +3,7 @@ date: 2022-03-06
 title: Helping small businesses grow
 categories:
   - Creativity
-image_path: /images/blog/4.jpg
+image_path: images/blog/4.jpg
 author: Bobby Brown
 ---
 
